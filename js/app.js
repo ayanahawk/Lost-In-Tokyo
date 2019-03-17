@@ -27,7 +27,7 @@ const NavItem = ({ className, href, children, logo }) => (
   <li className={`mh2-ns f10 f4-1 tc ${className}`}>
     <a className="white no-underline" href={href}>
       {logo ? (
-        <img src="../images/logo.svg" className="db center logo" />
+        <img src="/images/logo.svg" className="db center logo" />
       ) : (
         children
       )}
@@ -100,7 +100,7 @@ class Attraction extends React.Component {
               </p>
             </div>
           </div>
-          <img src={`../images/${image}`} className="db" />
+          <img src={`/images/${image}`} className="db" />
         </div>
       </div>
     );
