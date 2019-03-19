@@ -9,7 +9,7 @@ const Intro = () => (
     <div className="mb3 mb4-ns">
     
       <Hightlight color="aqua">Lost in Tokyo </Hightlight>is a directory of
-      funplaces to see, play in and{" "}
+      fun places to see, play in and{" "}
       <Hightlight color="yellow">explore</Hightlight>, in{" "}
       <Hightlight color="blue">Tokyo</Hightlight>, Japan.
     </div>
