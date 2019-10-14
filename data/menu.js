@@ -7,13 +7,13 @@ const menu = [
   },
   {
     children: 'About',
-    className: 'order-1-ns w-20',
+    className: 'order-1-ns w-30',
     href: 'about.html',
   },
 
   {
     children: 'Journal',
-    className: 'order-4-ns w-20',
+    className: 'order-4-ns w-30',
     href: 'journal.html',
   },
 ];
